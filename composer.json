@@ -9,7 +9,7 @@
     "type": "seat-plugin",
     "require": {
         "php": ">=7.1",
-        "laravel/framework": "5.8.**",
+        "laravel/framework": "5.8.",
         "eveseat/web": "~3.0.15",
         "erusev/parsedown": "^1.7",
         "textalk/websocket": "1.0.*",
