@@ -1,5 +1,5 @@
 {
-    "name": "code2200/seat-notifications",
+    "name": "Herpaderpaldent/seat-notifications",
     "description": "With this SeAT Package you can setup and manage notifications. It is build to be expendend from within the package or from another package",
     "autoload": {
         "psr-4": {
